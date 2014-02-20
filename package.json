@@ -1,0 +1,15 @@
+{
+  "name": "gamtiq-isarray-shim",
+  "description": "Shim for ECMAScript 5 Array.isArray",
+  "version": "0.0.1",
+  "keywords": [
+    "Array",
+    "isArray",
+    "es5",
+    "shim",
+    "polyfill"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
